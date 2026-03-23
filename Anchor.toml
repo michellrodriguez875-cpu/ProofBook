@@ -1,0 +1,6 @@
+[programs.devnet]
+library_manager = "TuProgramID"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
